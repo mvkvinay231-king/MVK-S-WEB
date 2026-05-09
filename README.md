@@ -538,7 +538,7 @@
 
   <!-- FOOTER -->
   <footer>
-    © 2026 Advaith Vinay | Student Portfolio Website
+    © 2026 M Vinay | Portfolio Website
   </footer>
 
 </body>
